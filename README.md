@@ -4,8 +4,8 @@ A simple implementation of **Rule 110**, a one-dimensional cellular automaton, w
 
 ---
 
-```image
-    ![](rule_110/assets/rule110.png)
+```markdown
+    ![Rule 110](rule_110/assets/rule110.png)
 ```
 
 
@@ -64,9 +64,7 @@ make clean
 
 ---
 
-
-
-## 📄 License
+##  License
 
 This project is open source. You can add your preferred license here, such as the **MIT License**.
 
