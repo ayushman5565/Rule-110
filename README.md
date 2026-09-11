@@ -5,7 +5,7 @@ A simple implementation of **Rule 110**, a one-dimensional cellular automaton, w
 ---
 
 ```markdown
-    ![Rule 110](rule_110/assets/rule110.png)
+    ![Rule 110](assets/rule110.png)
 ```
 
 
